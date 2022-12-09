@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 
-- 💬 I'm a security and platform engineer based in London 🇬🇧.
+- 💬 I'm a security and platform engineer based in London 🇬🇧
 
 - 💻 I enjoy coding in Go and working with Kubernetes & Terraform.
 
