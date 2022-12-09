@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 
-- 🔭 I'm currently working at <a href="https://www.ravelin.com/">Ravelin</a> providing a state of the art fraud detection engine.
+- 💬 I'm a security and platform engineer who enjoys coding in Go and working with Kubernetes & Terraform.
 
-- 💬 I'm a Security and Platform engineer who enjoys working with Kubernetes and writting Go.
+- 🔭 I'm currently working at <a href="https://www.ravelin.com/">Ravelin</a> working on cool security and infrastructure projects.
+
